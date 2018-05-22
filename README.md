@@ -7,7 +7,9 @@ This README would normally document whatever steps are necessary to get your app
 * This repository is for the FunWithCubez Android-project in which we will examine the SDK of ARCore.
 * This application uses the HelloAR.java project as a basis provided by Google
 * This application will use ARCore with the camera of a phone.
-* When the application is in use you will be able to place out cubes in the environment in different ways. 
+* When the application is in use you will be able to place out cubes in the environment in different ways.
+* We have added benchmark abilities to the application so that one could benchmark number of feature points
+and size of detected plane 
 * More info will be added
 
 
